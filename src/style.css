@@ -43,4 +43,11 @@ main{
     margin:12px 0px 5px 15px;
     border: 3px solid gray;
     background-color: lightgray;
+    cursor: pointer;
+}
+
+@media screen and (max-width:1433px) {
+    main{
+        justify-content: center;
+    }
 }
